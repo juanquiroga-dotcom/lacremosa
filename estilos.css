@@ -1,0 +1,114 @@
+@font-face{
+	font-family:"SNOW BLUE";
+	src:url("fuentes/SNOW BLUE.otf");
+}
+@font-face{
+	font-family:"Ice Cream Icons";
+	src:url("fuentes/Ice Cream Icons.otf");
+}
+	
+body{
+background-image:url("fondos/fondomarmol.jpg");
+}
+
+img{
+	margin-left:25px;
+}
+
+.image{
+	display:block;
+    margin:auto;
+    border-style:solid;
+    border-width:5px;
+	border-radius:25px;
+}
+.imghelado{
+	border-style:solid;
+    border-width:5px;
+	border-radius:25px;
+}
+
+h1{
+	font-size:40px;
+	margin-left:25px;
+	font-family:"SNOW BLUE",sans-serif;
+	text-shadow:#71f5f0 0px 0px 10px;
+}
+
+h2{
+	font-size:32px;
+	margin-left:25px;
+	font-family:"SNOW BLUE",sans-serif;
+	text-shadow:#71f5f0 0px 0px 10px;
+}
+
+h3{
+	font-size:27px;
+	margin-left:25px;
+	font-family:"SNOW BLUE",sans-serif;
+	text-shadow:#71f5f0 0px 0px 10px;
+}
+
+p{
+	text-align:justify;
+	font-size:25px;
+	line-height:35px;
+	margin-left:25px;
+	margin-right:35px;
+	font-family:Trebuchet MS,Trebuchet MS,sans-serif;
+}
+
+ul{
+	font-size:25px;
+	line-height:35px;
+	margin-left:35px;
+	margin-right:35px;
+	font-family:Trebuchet MS,Trebuchet MS,sans-serif;
+}
+
+td{
+	font-size:25px;
+	line-height:35px;
+	margin-left:25px;
+}
+
+a:link{
+	color:black;
+	text-decoration:none;
+}
+
+a:hover{
+	color:white;
+}
+.iconos:hover{
+	border-style:solid;
+	border-color:black;
+	border-radius:10px;
+}
+
+a:visited{
+	color:black;
+}
+
+a:visited:hover{
+	color:white;
+}
+
+table{
+	font-family:Trebuchet MS,Trebuchet MS,sans-serif;
+	margin-left:2%;
+	margin-bottom:30px;
+	background-color:#b0f5f7;
+	border-color:black;
+	border-spacing:0px;
+	border-style:solid;
+}
+
+td{
+	border-style:solid;
+}
+
+.icono{
+	font-family:Ice Cream Icons;
+	font-size:50px;
+}
